@@ -62,8 +62,6 @@
 
 <br/>
 
-<br/>
-
 ## 🏐 Level 4
 
 | Project | Period | Repository | Pull Request & Review |
