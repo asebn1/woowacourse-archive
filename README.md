@@ -70,7 +70,6 @@
 |톰캣 구현하기/step3,4|`2022-09-08` ~ `2022-09-14`|[repository 3](https://github.com/asebn1/jwp-dashboard-http/tree/step3)|[pull request 3](https://github.com/woowacourse/jwp-dashboard-http/pull/283)|
 
 <br>
-
 <br/>
 
 ## 🎳 지원플랫폼 근로
