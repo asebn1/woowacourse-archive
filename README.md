@@ -149,7 +149,18 @@
 - [쿼리 문법](https://jaehhh.tistory.com/104?category=505771)
 - [페치 조인](https://jaehhh.tistory.com/105?category=505771)
 
-
+## Spring Data JPA
+- [순수 JPA 기반 리포지토리와 차이점을 확인해보자](https://jaehhh.tistory.com/124?category=505771)
+- [쿼리 메소드 기능을 알아보자](https://jaehhh.tistory.com/125?category=505771)
+- [@Query를 통해 DTO로 조회해보자](https://jaehhh.tistory.com/126?category=505771)
+- [파라미터 바인딩 종류와 컬렉션 파라미터 바인딩](https://jaehhh.tistory.com/127?category=505771)
+- [반환타입을 알아보자](https://jaehhh.tistory.com/128?category=505771)
+- [페이징과 정렬을 해보자](https://jaehhh.tistory.com/129?category=505771)
+- [벌크성 수정 쿼리에 대해 알아보자](https://jaehhh.tistory.com/130?category=505771)
+- [@EntityGraph을 통해 간편히 페치조인을 적용해보자](https://jaehhh.tistory.com/131?category=505771)
+- [JPA Hint를 통해 성능최적화를 한다?](https://jaehhh.tistory.com/132?category=505771)
+- [사용자 정의 레포지토리를 추가로 구현하는 방법을 알아보자](https://jaehhh.tistory.com/133?category=505771)
+- [Auditing을 적용해보자!](https://jaehhh.tistory.com/134?category=505771)
 
 
 
