@@ -93,6 +93,17 @@
 
 # 🚀 블로그 포스팅
 
+## 알아보기
+- [자바의 입출력(I/O) 및 File(경로/읽기)을 알아보자](https://jaehhh.tistory.com/145?category=542270)
+- [프로세스 vs 스레드를 비교해보자](https://jaehhh.tistory.com/144?category=580871)
+- [정적(static) 메소드 써도 될까?](https://jaehhh.tistory.com/52?category=542270)
+- [DTO와 VO 비교](https://jaehhh.tistory.com/40?category=542270)
+- [SpringBoot에 원하는 오류페이지로 설정하기](https://jaehhh.tistory.com/67?category=542270)
+- [IntelliJ 디버깅 해보기](https://jaehhh.tistory.com/68?category=542270)
+- [전략패턴과 상태패턴의 공통점과 차이점](https://jaehhh.tistory.com/86?category=542270)
+- [웹서버 vs WAS](https://jaehhh.tistory.com/142?category=546816)
+- [HTTP란? (특징, 버전, 캐싱)](https://jaehhh.tistory.com/143?category=546816)
+
 
 
 
