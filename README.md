@@ -137,7 +137,17 @@
 - [스프링 MVC 프레임워크 동작 방식](https://jaehhh.tistory.com/79?category=505771)
 - [프로필과 프로퍼티](https://jaehhh.tistory.com/91?category=505771)
 
-
+## JPA
+- [JPA 소개](https://jaehhh.tistory.com/94?category=505771)
+- [JPA 시작하기](https://jaehhh.tistory.com/95?category=505771)
+- [영속성 관리 - 내부 동작 방식](https://jaehhh.tistory.com/98?category=505771)
+- [엔티티 매핑](https://jaehhh.tistory.com/99?category=505771)
+- [연관관계 매핑 기초](https://jaehhh.tistory.com/100?category=505771)
+- [다양한 연관관계 매핑](https://jaehhh.tistory.com/101?category=505771)
+- [프록시와 연관관계 관리(지연로딩)](https://jaehhh.tistory.com/102?category=505771)
+- [값 타입](https://jaehhh.tistory.com/103?category=505771)
+- [쿼리 문법](https://jaehhh.tistory.com/104?category=505771)
+- [페치 조인](https://jaehhh.tistory.com/105?category=505771)
 
 
 
