@@ -104,7 +104,14 @@
 - [웹서버 vs WAS](https://jaehhh.tistory.com/142?category=546816)
 - [HTTP란? (특징, 버전, 캐싱)](https://jaehhh.tistory.com/143?category=546816)
 
-
+## Kotlin
+- [코틀린을 알아보자](https://jaehhh.tistory.com/140?category=554359)
+- [코틀린에서 JPA를 사용할 때 고려할 점(SETTER, 생성자 안의 프로퍼티, data class)](https://jaehhh.tistory.com/141?category=554359)
+- [왜 Kotest를 사용해야 할까?](https://jaehhh.tistory.com/118?category=554359)
+- [Kotest의 테스트스타일 10가지](https://jaehhh.tistory.com/117?category=554359)
+- [코틀린이란 무엇이며, 왜 필요한가?](https://jaehhh.tistory.com/82?category=554359)
+- [코틀린 기초](https://jaehhh.tistory.com/87?category=554359)
+- [함수 정의와 호출](https://jaehhh.tistory.com/87?category=554359)
 
 
 
