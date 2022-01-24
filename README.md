@@ -112,7 +112,13 @@
 - [코틀린이란 무엇이며, 왜 필요한가?](https://jaehhh.tistory.com/82?category=554359)
 - [코틀린 기초](https://jaehhh.tistory.com/87?category=554359)
 - [함수 정의와 호출](https://jaehhh.tistory.com/87?category=554359)
-
+- [클래스, 객체, 인터페이스](https://jaehhh.tistory.com/87?category=554359)
+- [코틀린 타입 시스템](https://jaehhh.tistory.com/92?category=554359)
+- [연산자 오버로딩과 기타 관례](https://jaehhh.tistory.com/93?category=554359)
+- [고차함수 : 파라미터와 반환 값으로 람다 사용](https://jaehhh.tistory.com/96?category=554359)
+- [제네릭스](https://jaehhh.tistory.com/97?category=554359)
+- [애노테이션과 리플렉션](https://jaehhh.tistory.com/106?category=554359)
+- [DSL 만들기](https://jaehhh.tistory.com/107?category=554359)
 
 
 
