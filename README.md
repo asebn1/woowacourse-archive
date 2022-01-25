@@ -77,6 +77,7 @@
 | Project | Period | Repository |
 |:---:|:---:|:---:|
 |service-apply|`2022-04-01` ~ `2022-11-25`|[repository](https://github.com/woowacourse/service-apply)|
+
 <br/>
 
 ## 🥅 Study
