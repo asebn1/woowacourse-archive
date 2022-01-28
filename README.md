@@ -162,7 +162,11 @@
 - [사용자 정의 레포지토리를 추가로 구현하는 방법을 알아보자](https://jaehhh.tistory.com/133?category=505771)
 - [Auditing을 적용해보자!](https://jaehhh.tistory.com/134?category=505771)
 
-
+## QueryDSL
+- [기본 문법을 알아보자](https://jaehhh.tistory.com/136?category=505771)
+- [프로젝션(SELECT 대상)에 따라 다른 결과를 가져와 보자](https://jaehhh.tistory.com/137?category=505771)
+- [동적쿼리를 해결해보자](https://jaehhh.tistory.com/138?category=505771)
+- [수정, 삭제 벌크연산 하는방법을 알아보자](https://jaehhh.tistory.com/139?category=505771)
 
 
 
