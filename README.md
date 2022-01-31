@@ -168,19 +168,6 @@
 - [동적쿼리를 해결해보자](https://jaehhh.tistory.com/138?category=505771)
 - [수정, 삭제 벌크연산 하는방법을 알아보자](https://jaehhh.tistory.com/139?category=505771)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 기타
+- [신입 개발자의 역량과 성장](https://jaehhh.tistory.com/123?category=554709)
+- [마음이 끌리는 무엇인가에 긴시간 동안 몰입해 본 경험이 있나요?](https://jaehhh.tistory.com/22?category=540193)
