@@ -1,6 +1,6 @@
-# 📚 제로의 `우아한테크코스 4기` 기록용 레포지토리
+# 🏀 제로의 우아한테크코스 4기 기록용 레포지토리
 
-## 📕 Precourse
+## 🥎 Precourse
 
 | Project | Period | Repository |
 |:-----:|:-----:|:-----:|
@@ -11,7 +11,7 @@
 
 <br/>
 
-## 📙 Level 1
+## ⚽ Level 1
 
 | Project | Period | Repository | Pull Request & Review |
 |:-----:|:-----:|:---:|:---:|
@@ -26,11 +26,11 @@
 
 <br>
 
-➕ [글쓰기 - 우테코 한달 생활기](https://github.com/asebn1/woowa-writing-4/blob/asebn1/Level1.md)
+⛳ [글쓰기 - 우테코 한달 생활기](https://github.com/asebn1/woowa-writing-4/blob/asebn1/Level1.md)
 
 <br/>
 
-## 📒 Level 2
+## 🏐 Level 2
 
 | Project | Period | Repository | Pull Request & Review |
 |:-----:|:-----:|:---:|:---:|
@@ -45,11 +45,11 @@
 
 <br>
 
-➕ [글쓰기 - 나만의 학습 방법 - 블로그](https://github.com/asebn1/woowa-writing-4/blob/asebn1/Level2.md)
+⛳ [글쓰기 - 나만의 학습 방법 - 블로그](https://github.com/asebn1/woowa-writing-4/blob/asebn1/Level2.md)
 
 <br/>
 
-## 📘 Level 3
+## 🏈 Level 3
 
 | Project | Period | Repository |
 |:---:|:---:|:---:|
@@ -58,7 +58,7 @@
 
 <br/>
 
-## 📔 Study
+## 🥅 Study
 
 > 우아한테크코스 내부에서 진행한 스터디 정리
 
