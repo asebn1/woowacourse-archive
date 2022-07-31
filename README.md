@@ -53,7 +53,7 @@
 
 | Project | Period | Repository |
 |:---:|:---:|:---:|
-|내 편(내 마음을 편지로)|`2022-06-02` ~ `2022-06-09`|https://github.com/woowacourse-teams/2022-nae-pyeon|
+|내 편(내 마음을 편지로)|`2022-06-28` ~ `2022-08-19`|https://github.com/woowacourse-teams/2022-nae-pyeon|
 
 
 <br/>
