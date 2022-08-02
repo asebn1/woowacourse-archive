@@ -74,3 +74,4 @@
 |구구조 Spring 스터디|`2022-05-06` ~ `2022-06-10`|[repository](https://github.com/woowacourse-study/2022-gugu-spring-study)|
 |Kotlin 스터디|`2022-06-06` ~ `2022-07-20`|[repository](https://github.com/woowacourse-study/2022-kotudy)|
 |JPA 스터디|`2022-06-11`~`2022-07-30`|-|
+|알고리즘 스터디|`2022-06-20`~`2022-08-30`|[repository](https://github.com/woowacourse-study/2022-lv3-algorithm-study)|
