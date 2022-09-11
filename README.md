@@ -53,7 +53,7 @@
 
 | Project | Period | Repository |
 |:---:|:---:|:---:|
-|내 편(내 마음을 편지로)|`2022-06-28` ~ `2022-08-19`|[repository](https://github.com/woowacourse-teams/2022-nae-pyeon)|
+|내 편(내 마음을 편지로)|`2022-06-28` ~ `2022-11-25`|[repository](https://github.com/woowacourse-teams/2022-nae-pyeon)|
 
 
 <br>
@@ -68,7 +68,7 @@
 
 | Project | Period | Repository |
 |:---:|:---:|:---:|
-|service-apply|`2022-04-01` ~ `2022-11-15`|[repository](https://github.com/woowacourse/service-apply)|
+|service-apply|`2022-04-01` ~ `2022-11-25`|[repository](https://github.com/woowacourse/service-apply)|
 <br/>
 
 ## 🥅 Study
