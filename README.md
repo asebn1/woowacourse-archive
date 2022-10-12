@@ -71,6 +71,8 @@
 |MVC 구현하기/step1|`2022-09-15` ~ `2022-09-20`|[repository 1](https://github.com/asebn1/jwp-dashboard-mvc/tree/step1)|[pull request 1](https://github.com/woowacourse/jwp-dashboard-mvc/pull/166)|
 |MVC 구현하기/step2|`2022-09-20` ~ `2022-09-23`|[repository 2](https://github.com/asebn1/jwp-dashboard-mvc/tree/step2)|[pull request 2](https://github.com/woowacourse/jwp-dashboard-mvc/pull/242)|
 |MVC 구현하기/step3|`2022-09-24` ~ `2022-09-28`|[repository 3](https://github.com/asebn1/jwp-dashboard-mvc/tree/step3)|[pull request 3](https://github.com/woowacourse/jwp-dashboard-mvc/pull/288)|
+|JDBC 라이브러리 구현하기/step1|`2022-09-30` ~ `2022-10-05`|[repository 1](https://github.com/asebn1/jwp-dashboard-jdbc/tree/step1)|[pull request 1](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/81)|
+|JDBC 라이브러리 구현하기/step2|`2022-10-06` ~ `2022-10-14`|[repository 2](https://github.com/asebn1/jwp-dashboard-jdbc/tree/step2)|[pull request 2](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/207)|
 
 <br>
 <br/>
